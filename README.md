@@ -7,3 +7,4 @@
 
 ### 前端基建
 - [core-js及垫片理念](https://github.com/BYChoo/blog/issues/3)
+- [制定一个统一标准化babel-preset](https://github.com/BYChoo/blog/issues/4)
