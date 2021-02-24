@@ -8,3 +8,4 @@
 ### 前端基建
 - [core-js及垫片理念](https://github.com/BYChoo/blog/issues/3)
 - [制定一个统一标准化babel-preset](https://github.com/BYChoo/blog/issues/4)
+- [缩减 bundle size，把性能做到极致](https://github.com/BYChoo/blog/issues/5)
