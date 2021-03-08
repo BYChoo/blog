@@ -9,3 +9,5 @@
 - [core-js及垫片理念](https://github.com/BYChoo/blog/issues/3)
 - [制定一个统一标准化babel-preset](https://github.com/BYChoo/blog/issues/4)
 - [代码拆分和按需加载](https://github.com/BYChoo/blog/issues/5)
+- [工程化思维处理方案：如何实现应用主题切换功能](https://github.com/BYChoo/blog/issues/6)
+- [解析 Webpack 源码，实现自己的构建工具](https://github.com/BYChoo/blog/issues/7)
