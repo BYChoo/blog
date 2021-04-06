@@ -10,4 +10,14 @@
 - [制定一个统一标准化babel-preset](https://github.com/BYChoo/blog/issues/4)
 - [代码拆分和按需加载](https://github.com/BYChoo/blog/issues/5)
 - [工程化思维处理方案：如何实现应用主题切换功能](https://github.com/BYChoo/blog/issues/6)
-- [解析 Webpack 源码，实现自己的构建工具](https://github.com/BYChoo/blog/issues/7)
+- [解析 Webpack 源码](https://github.com/BYChoo/blog/issues/7)
+
+### node.js
+
+- [事件循环：高性能到底是如何做到的](https://github.com/BYChoo/blog/issues/8)
+
+
+### vue3.0
+
+- [Vue3.0的优化](https://github.com/BYChoo/blog/issues/9)
+- [Vue3.0: vnode到真实DOM转换](https://github.com/BYChoo/blog/issues/10)
