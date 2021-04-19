@@ -21,6 +21,7 @@
 
 - [Vue3.0的优化](https://github.com/BYChoo/blog/issues/9)
 - [Vue3.0: vnode到真实DOM转换](https://github.com/BYChoo/blog/issues/10)
+- [Vue-router的原理](https://github.com/BYChoo/blog/issues/11)
 
 ### 函数式编程
 
