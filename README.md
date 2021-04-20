@@ -26,3 +26,4 @@
 ### 函数式编程
 
 - [纯函数](https://github.com/BYChoo/blog/issues/12)
+- [柯里化](https://github.com/BYChoo/blog/issues/13)
